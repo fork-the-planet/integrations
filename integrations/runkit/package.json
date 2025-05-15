@@ -10,7 +10,7 @@
     "devDependencies": {
         "@gitbook/cli": "workspace:*",
         "@gitbook/tsconfig": "workspace:*",
-        "esbuild": "^0.15.7"
+        "esbuild": "^0.25.1"
     },
     "scripts": {
         "build": "bun run ./webframe/scripts/build.ts",
