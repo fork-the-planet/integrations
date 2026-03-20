@@ -17,7 +17,7 @@
         "@reflag/browser-sdk": "^1.1.0",
         "launchdarkly-js-client-sdk": "^3.8.1",
         "@types/js-cookie": "^3.0.6",
-        "esbuild": "^0.25.3"
+        "esbuild": "^0.27.3"
     },
     "scripts": {
         "build": "bun esbuild.config.js && tsc --emitDeclarationOnly",
